@@ -1,4 +1,13 @@
-### Hi there 👋
+# 👓 Tomas Toler
+
+**`Jr Developer / Future Data Scientist`**
+<!-- imagen introductoria -->
+
+<!-- Breve descripción de mi persona [pasar a linkedin] -->
+
+<!-- tecnologias que manejo -->
+
+<!-- como contactarme -->
 
 <!--
 **tomastoler/tomastoler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
