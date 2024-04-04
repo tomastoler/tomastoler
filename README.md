@@ -1,6 +1,6 @@
 # 👓 Tomas Toler
 
-**`Jr Developer / Future Data Scientist`**
+**`Jr Web Developer / Future Data Scientist`**
 
 <!-- imagen introductoria -->
 
